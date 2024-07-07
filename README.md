@@ -1,3 +1,21 @@
+# Features
+1.User Authentication: Secure user registration and login with password encryption.
+2.Product Catalog: Comprehensive catalog of watches with detailed descriptions, high-quality images, and pricing information.
+3.Search and Filter: Advanced search functionality with filtering options based on brand, price range, and features.
+4.Shopping Cart: Easy-to-use shopping cart system allowing users to add, remove, and modify items.
+5.Checkout Process: Streamlined checkout process with multiple payment options.
+6.Order Management: Order tracking and history for users, and order management dashboard for admins.
+7.Responsive Design: Mobile-friendly design ensuring optimal user experience on all devices.
+8.Reviews and Ratings: Users can leave reviews and ratings for products.
+9.Admin Panel: Admin interface for managing products, orders, and users.
+# Technologies Used
+1.Frontend: HTML, CSS, JavaScript, React
+2.Backend: Node.js, Express
+3.Database: MongoDB
+4.Authentication: JWT (JSON Web Tokens)
+5.Payment Gateway: Paypal(Braintree)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
